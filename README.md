@@ -16,7 +16,7 @@
   <img align="left" alt="Mahin's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="http://yoganetwork.ca/wp-content/uploads/2020/06/developer.gif" />
 
 ### I am MD MAHIN BIN RAIHAN
 - A Programming enthusiast.
