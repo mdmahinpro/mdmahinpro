@@ -1,5 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+## Hello World! <a href="https://app.daily.dev/mdmahin"><img  align="center" src="https://api.daily.dev/devcards/67432b43077f4629906090d5574057cb.png?r=uz5" width="400" alt="Md. Mahin Bin Raihan Mukto's Dev Card"/></a>
 <a href="https://twitter.com/mukto443">
   <img align="left" alt="Mahin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
