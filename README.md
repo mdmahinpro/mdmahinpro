@@ -1,4 +1,4 @@
-## Hello World! <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mdmahinpro/mdmahinpro/blob/master/devcard.svg" width="400" alt="Mahin's Dev Card"/></a>
+## Hello World! <a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/mdmahinpro/mdmahinpro/blob/master/devcard.svg" width="400" alt="Mahin's Dev Card"/></a>
 <a href="https://twitter.com/mukto443">
   <img align="left" alt="Mahin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
